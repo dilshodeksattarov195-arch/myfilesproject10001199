@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpereerify",
+        "uuid": 3244494,
+        "checksum": "3y5efl"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
